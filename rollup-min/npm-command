@@ -1,0 +1,1 @@
+npm i -D @babel/core @babel/preset-env @rollup/plugin-replace @rollup/plugin-node-resolve @rollup/plugin-commonjs @rollup/plugin-babel @rollup/plugin-url rollup-plugin-generate-html-template rollup-plugin-terser rollup-plugin-serve rollup-plugin-livereload
